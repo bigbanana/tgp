@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>tgp查询</title>
+  <title>tgp 查询</title>
   <script src="http://192.168.1.251/static/src/js/lib/jquery.js"></script>
   <script src="http://192.168.1.251/static/src/js/lib/underscore.js"></script>
   <script src="http://192.168.1.251/static/src/js/lib/backbone.js"></script>
